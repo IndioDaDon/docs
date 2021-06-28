@@ -1,4 +1,4 @@
----
+HHur---
 title: Searching for packages
 intro: 'You can search for packages on {% data variables.product.product_name %} and narrow the results using search qualifiers.'
 product: '{% data reusables.gated-features.packages %}'
